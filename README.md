@@ -1,5 +1,7 @@
 # DRE: Density-Based Data Selection With Entropy for Adversarial-Robust Deep Learning Models
 
+This is the implementation for the project of DRE.
+
 ## Problem definition
 
 Integrate adversarial training into active learning to produce accurate and adversarial robust deep neural networks. 
@@ -54,8 +56,10 @@ python main_evaluate.py --type al --train adv --dataName mnist --attack pgd --me
 **[Notice] Be careful with the saving path in `config.py`.**
 
 ## Reference
-More results can be found at our [companion site](https://sites.google.com/view/robust-al/home).
+More experimental results can be found at our [companion site](https://sites.google.com/view/robust-al/home).
+
+If you use this project, please consider citing us:
 <pre><code></code></pre>
 
 ## Contact
-yuejun.guo@uni.lu; yuejun.guo@yahoo.com
+Please contact Yuejun Guo (yuejun.guo@uni.lu; yuejun.guo@yahoo.com) if you have further questions or want to contribute.
