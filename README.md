@@ -59,7 +59,17 @@ python main_evaluate.py --type al --train adv --dataName mnist --attack pgd --me
 More experimental results can be found at our [companion site](https://sites.google.com/view/robust-al/home).
 
 If you use this project, please consider citing us:
-<pre><code></code></pre>
+<pre><code>
+@article{guo2022dre,
+  title={DRE: density-based data selection with entropy for adversarial-robust deep learning models},
+  author={Guo, Yuejun and Hu, Qiang and Cordy, Maxime and Papadakis, Michail and Le Traon, Yves},
+  journal={Neural Computing and Applications},
+  pages={1--18},
+  year={2022},
+  publisher={Springer},
+  doi={10.1007/s00521-022-07812-2}
+}
+</code></pre>
 
 ## Contact
 Please contact Yuejun Guo (yuejun.guo@uni.lu; yuejun.guo@yahoo.com) if you have further questions or want to contribute.
