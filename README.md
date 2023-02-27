@@ -6,6 +6,20 @@ This is the implementation for the project of DRE.
 
 Integrate adversarial training into active learning to produce accurate and adversarial robust deep neural networks. 
 
+## Benchmarks
+
+- Random sampling
+- Max Entropy
+- DeepGini
+- Bayesian active learning by disagreement (BALD)
+- Dropout Entropy
+- Least confidence (LC)
+- Margin sampling
+- Multiple-boundary clustring and prioritization (MCP)
+- DeepFool active learning (DFAL)
+- Expected gradient length (EGL)
+- Core-set 
+
 ## Dependency
 
 - python 3.6.10
@@ -72,4 +86,4 @@ If you use this project, please consider citing us:
 </code></pre>
 
 ## Contact
-Please contact Yuejun Guo (yuejun.guo@uni.lu; yuejun.guo@yahoo.com) if you have further questions or want to contribute.
+Please contact Yuejun Guo (yuejun.guo@list.lu; yuejun.guo@yahoo.com) if you have further questions or want to contribute.
